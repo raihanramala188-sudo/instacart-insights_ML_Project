@@ -1,8 +1,8 @@
-# 🛒 Retail Insights: Data-Driven Cost Savings & Revenue Growth
+#  Retail Insights: Data-Driven Cost Savings & Revenue Growth
 
 > DSTI Applied MSc Project | Instacart Online Grocery Dataset
 
-## 📋 Project Overview
+## Project Overview
 
 This project analyzes 3M+ grocery orders to provide actionable recommendations for shop owners:
 - **Association Rule Mining** (Apriori, FP-Growth, Eclat, UP-Tree)
@@ -10,7 +10,7 @@ This project analyzes 3M+ grocery orders to provide actionable recommendations f
 - **Revenue Simulation** from data-driven product bundles
 - **Promotion ROI** — targeted vs. blanket discounts
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install dependencies
 ```bash
@@ -40,7 +40,7 @@ Or open `notebooks/pipeline.ipynb` in Jupyter.
 streamlit run app.py
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 retail-insights/
@@ -62,7 +62,7 @@ retail-insights/
 └── README.md
 ```
 
-## 🔬 Methods
+## Methods
 
 | Module | Algorithms |
 |--------|-----------|
@@ -72,7 +72,7 @@ retail-insights/
 | Revenue Model | Lift-based simulation |
 | Promotion Analysis | Targeted vs. Blanket discount P&L |
 
-## 👥 Team Roles
+## Team Roles
 
 | Role | Task |
 |------|------|
@@ -81,7 +81,7 @@ retail-insights/
 | Data Scientist B | Segmentation + utility mining |
 | Business Analyst | Dashboard + report + demo video |
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 1. **Overview** — KPIs, top products, algorithm comparison
 2. **Customer Segments** — RFM clusters, scatter maps, basket variability
@@ -89,5 +89,5 @@ retail-insights/
 4. **Revenue Simulation** — Bundle ROI calculator with sliders
 5. **Promotion ROI** — Targeted vs. blanket discount analysis
 
-## 📄 License
+## License
 Educational project — DSTI 2025
